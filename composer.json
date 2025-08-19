@@ -1,6 +1,6 @@
 {
   "name": "filament/user-manager",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "User manager plugin: Manage users and generate fake users",
   "type": "library",
   "license": "MIT",
