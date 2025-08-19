@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/user-manager",
+  "name": "filament/user-manager",
   "description": "User manager plugin: Manage users and generate fake users",
   "type": "library",
   "license": "MIT",
